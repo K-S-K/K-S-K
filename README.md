@@ -8,6 +8,9 @@
 - 📫 How to reach me ...
 --->
 
+
+Some of my recent projects description is [here](VC/README.md)
+
 <!---
 K-S-K/K-S-K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
