@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @K-S-K. My name is Stanislav.
 - 👀 People say that I'm software developer. But also I’m interested in many different things like [photography](https://www.instagram.com/stanislaw.kiselevskii/) and travelling.
+- Some of my recent projects description is [here](https://github.com/K-S-K/CV/blob/main/README.md)
 
 
 <!---
@@ -9,7 +10,6 @@
 --->
 
 
-Some of my recent projects description is [here](VC/README.md)
 
 <!---
 K-S-K/K-S-K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
