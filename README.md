@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @K-S-K. My human name is Stanislav.
+- 👋 Hi, I’m @K-S-K. My name is Stanislav.
 - 👀 People say that I'm software developer. But also I’m interested in many different things.
 
 <!---
