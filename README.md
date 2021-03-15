@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @K-S-K. My name is Stanislav.
 - 👀 People say that I'm software developer. But also I’m interested in many different things.
+- 🌱 I’m currently learning [photography](https://www.instagram.com/stanislaw.kiselevskii/)
 
 <!---
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
