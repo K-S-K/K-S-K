@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @K-S-K. My name is Stanislav.
+- 👋 Hi, my name is Stanislav.
 - 👀 People say that I'm software developer. But also I’m interested in many different things like [photography](https://www.instagram.com/stanislaw.kiselevskii/) and travelling.
 - Some of my recent projects description is [here](https://github.com/K-S-K/CV/blob/main/README.md)
 
