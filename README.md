@@ -1,17 +1,14 @@
-- 👋 Hi, my name is Stanislav.
-- 👀 People say that I'm software developer. But also I’m interested in many different things like [photography](https://www.instagram.com/stanislaw.kiselevskii/) and travelling.
-- Some of my recent projects description is [here](https://github.com/K-S-K/CV/blob/main/README.md)
+#### Hello, my name is Stanislav.
+Here is some facts about me:
+- I'm software developer for many years but I still like it.
+- Also I'm interesting in [photography](https://www.instagram.com/stanislaw.kiselevskii/) not with cell phone but with a real camera.
+- Also I'm interesting in all about microcontrollers but without any *\*.ino* (don't start it, pls).
+- Also I'm interesting in travelling arount the place I live in and know interesting things about all this miracles.
+- Some of my recent projects descriptions are [here](https://github.com/K-S-K/CV/blob/main/README.md)
 
+<hr>
 
-<!---
-- 🌱 I’m currently learning [photography](https://www.instagram.com/stanislaw.kiselevskii/)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
+My current practical experiments with microcontrollers looks like this:<br>
+![](https://github.com/K-S-K/ESP32-02-OLedCounter/blob/master/docs/oled.gif)
 
-
-
-<!---
-K-S-K/K-S-K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I make the [first steps](https://github.com/K-S-K/ESP32-02-OLedCounter/blob/master/docs/Ch01_LostBits.md) in this direction but I believe it will be big and interessting journey.
