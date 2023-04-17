@@ -9,6 +9,6 @@ Here is some facts about me:
 <hr>
 
 My current practical experiments with microcontrollers looks like this:<br>
-![](https://github.com/K-S-K/ESP32-02-OLedCounter/blob/master/docs/oled.gif)
+![](https://github.com/K-S-K/ESP32-02-OLed-SSD1366/blob/master/docs/oled.gif)
 
-I make my [first steps](https://github.com/K-S-K/ESP32-02-OLedCounter/blob/master/docs/Ch01_LostBits.md) in this direction but I believe it will be big and interessting journey.
+I make my [first steps](https://github.com/K-S-K/ESP32-02-OLed-SSD1366/blob/master/docs/Ch01_LostBits.md) in this direction but I believe it will be big and interessting journey.
