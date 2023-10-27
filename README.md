@@ -10,7 +10,7 @@ Here are some facts about me:
 
 #### Just started a new project.
 A simple editor for breadboard wiring planning with effective storage files in version management-friendly format.<br>
-![Demo Board](BBCAD.Doc/board-1.svg)
+![Demo Board](https://github.com/K-S-K/BreadBoardCad/blob/master/BBCAD.Doc/board-1.svg)
 
 #### My recent practical experiments with microcontrollers look like this:<br>
 ![](https://github.com/K-S-K/ESP32-02-OLed-SSD1366/blob/master/docs/oled.gif)
