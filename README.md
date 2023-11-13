@@ -9,7 +9,7 @@ Here are some facts about me:
 <hr>
 
 #### Just started a new project.
-A simple editor for breadboard wiring planning with effective storage files in a version-management-friendly format.<br>
+A simple editor for prototype board wiring planning with effective storage files in a version-management-friendly format.<br>
 ![Demo Board](https://github.com/K-S-K/BreadBoardCad/blob/master/BBCAD.Doc/board-1.svg)
 
 #### My recent practical experiments with microcontrollers look like this:<br>
