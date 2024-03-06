@@ -9,7 +9,7 @@ Here are some facts about me:
 <hr>
 
 #### Just started a new project - Cross Container Signal Exchange.
-The purpose of this [project](https://github.com/K-S-K/CCSS) is to adjust the approach of creating several projects in different docker containers and let them communicate with each other via sockets. The project can be used as a template for creating more complex projects.
+The purpose of this [project](https://github.com/K-S-K/CCSS) written in **C++** is to adjust the approach of creating several projects in **different docker containers** and let them **communicate via sockets**. The project can be used as a template for creating more complex projects.
 
 #### In 2023, I started a new project.
 A simple editor for prototype board wiring planning with effective storage files in a version-management-friendly format.<br>
