@@ -31,7 +31,8 @@ Other properties:
 - It can be built and works on Windows and Linux OS.
 - It contains GitHub actions, which deploys it to the AWS.
 
-![Demo Board](https://github.com/K-S-K/BreadBoardCad/blob/master/BBCAD.Doc/board-1.svg)
+![Demo Board](https://github.com/K-S-K/BreadBoardCad/blob/master/BBCAD.Doc/board-1.svg)<br>
+The [project page with detailed description is here.](https://github.com/K-S-K/CV/blob/main/Articles/30_BBCAD/Article.md)
 
 #### LCD Screen driver for ESP Microcontroller:<br>
 ![](https://github.com/K-S-K/ESP32-02-OLed-SSD1366/blob/master/docs/oled.gif)
