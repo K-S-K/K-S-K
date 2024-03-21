@@ -16,11 +16,24 @@ This [project](https://github.com/K-S-K/CCCS), written in C++, aims to develop a
 #### Cross Container Signal Exchange.
 The purpose of this [project](https://github.com/K-S-K/CCSS) written in **C++** is to adjust the approach of creating several projects in **different docker containers** and let them **communicate via sockets**. The project can be used as a template for creating more complex projects.
 
-### In 2023, I started a new project.
-A simple editor for prototype board wiring planning with effective storage files in a version-management-friendly format.<br>
+### In 2023, I've made several projects:
+#### Prototype Board CAD
+A simple editor for prototype board wiring planning with effective storage files in a version-management-friendly format.<be>
+The project is written in C# for use in a web environment. 
+
+It contains:
+- Domain area library with a prototype board model.
+- Minimal API web application.
+- Blazor Web site application.
+
+Other properties:
+- It is written on C#, with .Net 7.
+- It can be built and works on Windows and Linux OS.
+- It contains GitHub actions, which deploys it to the AWS.
+
 ![Demo Board](https://github.com/K-S-K/BreadBoardCad/blob/master/BBCAD.Doc/board-1.svg)
 
-### My recent practical experiments with microcontrollers look like this:<br>
+#### LCD Screen driver for ESP Microcontroller:<br>
 ![](https://github.com/K-S-K/ESP32-02-OLed-SSD1366/blob/master/docs/oled.gif)
 
 I make my [first steps](https://github.com/K-S-K/ESP32-02-OLed-SSD1366/blob/master/docs/Ch01_LostBits.md) in this direction, but I believe it will be a big and interesting journey.
