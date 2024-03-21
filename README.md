@@ -6,7 +6,6 @@ Here are some facts about me:
 - Also, I'm interested in traveling around where I live and learning interesting things about all these miracles.
 - Some of the descriptions of my past projects are [here](https://github.com/K-S-K/CV/blob/main/README.md#project-gallery)
 
-<hr>
 
 ## My last projects are:
 ### In 2024, I started a couple of new projects:
