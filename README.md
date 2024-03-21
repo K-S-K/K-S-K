@@ -11,7 +11,7 @@ Here are some facts about me:
 ## My last projects are:
 ### In 2024, I started a couple of new projects:
 #### Cross Container Client-Server Example
-This [project](https://github.com/K-S-K/CCCS), written in C++, aims to develop an approach to **communicating between applications** in docker containers and allowing them to **exchange binary serialized messages** via sockets. The project can be used as a template for creating more complex projects.
+This [project](https://github.com/K-S-K/CCCS), written in C++, aims to develop an approach to **communicating between applications** in docker containers and allowing them to **exchange binary serialized messages** via sockets. The project can be used as a source of examples for creating more complex projects.
 
 #### Cross Container Signal Exchange.
 The purpose of this [project](https://github.com/K-S-K/CCSS) written in **C++** is to adjust the approach of creating several projects in **different docker containers** and let them **communicate via sockets**. The project can be used as a template for creating more complex projects.
