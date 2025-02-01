@@ -1,6 +1,6 @@
-## Hello, my name is Stanislav.
+## Hello, and welcome to my GitHub profile!
 Here are some facts about me:
-- I've been a software developer for many years, but I still like it.
+- I've been a software developer for many years but I still like it.
 - Also, I'm interested in photography, not with a cell phone but with a real camera.
 - Also, I'm interested in all about microcontrollers but without any *\*.ino* (don't start it, please).
 - Also, I'm interested in traveling around where I live and learning interesting things about all these miracles.
