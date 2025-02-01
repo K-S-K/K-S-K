@@ -5,12 +5,12 @@ Here are some facts about me:
 - Also, I'm interested in all about microcontrollers but without any *\*.ino* (don't start it, please).
 - Also, I'm interested in traveling around where I live and learning interesting things about all these miracles.
 - Some of the descriptions of my past projects are [here](https://github.com/K-S-K/CV/blob/main/README.md#project-gallery)
-- Right now, I have a fantastic job. I'm working on the spacecraft attitude control model for the future mission. It is very exciting to work for the future of our civilization.
+- Right now, I have a fantastic job. I'm working on the spacecraft attitude control model for the future mission. It is very exciting to work with incredible people for the sake of the future of our civilization.
 
 
 ## My last projects are:
 ### In 2024, I started a couple of new projects:
-#### Cross Docker Container Distributed system Example
+#### Cross Docker Container Distributed System Example
 This [project](https://github.com/K-S-K/CCCS), written in C++, aims to develop an approach to **communicating between applications** in docker containers and allowing them to **exchange binary serialized messages** via sockets. The project can be a source of examples for creating more complex projects.
 
 #### Cross Docker Container Signal Exchange.
