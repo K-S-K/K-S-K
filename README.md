@@ -10,13 +10,13 @@ Here are some facts about me:
 
 ## My last projects are:
 ### In 2024, I started a couple of new projects:
-#### Cross Container Client-Server Example
+#### Cross Docker Container Distributed system Example
 This [project](https://github.com/K-S-K/CCCS), written in C++, aims to develop an approach to **communicating between applications** in docker containers and allowing them to **exchange binary serialized messages** via sockets. The project can be a source of examples for creating more complex projects.
 
-#### Cross Container Signal Exchange.
+#### Cross Docker Container Signal Exchange.
 The purpose of this [project](https://github.com/K-S-K/CCSS) written in **C++** is to adjust the approach of creating several projects in **different docker containers** and let them **communicate via sockets**. The project can be used as a template for creating more complex projects.
 
-### In 2023, I've made several projects:
+### In 2023, I've made several projects, here are some of them:
 #### Prototype Board CAD
 A simple editor for prototype board wiring planning with effective storage files in a version-management-friendly format.<be>
 The project is written in C# for use in a web environment. 
