@@ -9,7 +9,7 @@ Here are some facts about me:
 
 
 ## Some of my recent projects are:
-### In 2024, I've made a couple of new projects to introducemyself to Linux development flow in C++:
+### In 2024, I've made a couple of new projects to introduce myself to Linux development flow in C++:
 #### Cross Docker Container Distributed System Example
 This [project](https://github.com/K-S-K/CCCS), written in C++, aims to develop an approach to **communicating between applications** in docker containers and allowing them to **exchange binary serialized messages** via sockets. The project can be a source of examples for creating more complex projects.
 
