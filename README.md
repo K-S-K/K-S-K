@@ -1,20 +1,26 @@
 ## Hello, and welcome to my GitHub profile!
 Here are some facts about me:
-- I'm a software developer for many years but I still like it.
+- I'm a software developer for many years, but I still like it.
 - Also, I'm interested in photography, not with a cell phone but with a real camera.
 - Also, I'm interested in all about microcontrollers but without any *\*.ino* (don't start it, please).
 - Also, I'm interested in traveling around where I live and learning interesting things about all these miracles.
 - You can see the **[gallery of my projects](https://github.com/K-S-K/CV/blob/main/README.md#project-gallery)** with brief descriptions of every one of them.
 - Right now, I have a fantastic job. I'm working on the spacecraft attitude control model for the next version of the Gaia telescope. It is very exciting to work with incredible people for the sake of the future of our civilization.
 
+## My actual doing:
+
+- Software development in C# (12);
+- Development of the software running on Linux-based platforms;
+- Software development for the spacecraft attitude control modeling;
+- Learning embedded software development (FreeRTOS, Raspberry PI Pico).
 
 ## Some of my recent projects are:
-### In the beginning of 2024, I've made a couple of projects to introduce myself to Linux development flow in C++:
+### At the beginning of 2024, I've made a couple of projects to introduce myself to the Linux development flow in C++:
 #### Cross Docker Container Distributed System Example
 This [project](https://github.com/K-S-K/CCCS), written in C++, aims to develop an approach to **communicating between applications** in docker containers and allowing them to **exchange binary serialized messages** via sockets. The project can be a source of examples for creating more complex projects.
 
 #### Cross Docker Container Signal Exchange.
-The purpose of this [project](https://github.com/K-S-K/CCSS) written in **C++** is to adjust the approach of creating several projects in **different docker containers** and let them **communicate via sockets**. The project can be used as a template for creating more complex projects.
+The purpose of this [project](https://github.com/K-S-K/CCSS), written in **C++** is to adjust the approach of creating several projects in **different docker containers** and let them **communicate via sockets**. The project can be used as a template for creating more complex projects.
 
 ### In 2023, I've made several projects, here are some of them:
 #### Prototype Board CAD
