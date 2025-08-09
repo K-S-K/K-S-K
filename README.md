@@ -11,7 +11,7 @@ Here are some facts about me:
 
 - Software development in C# (12);
 - Development of the software running on Linux-based platforms;
-- Software development for the spacecraft attitude control modeling (at work);
+- [Software development for the spacecraft attitude control modeling](https://github.com/K-S-K/CV/blob/main/Articles/36_GaiaSDT/Article.md) (at work);
 - Learning embedded software development - FreeRTOS, Raspberry PI Pico (at home).
 
 ## Some of my recent projects are:
