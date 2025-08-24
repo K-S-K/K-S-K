@@ -28,7 +28,7 @@ Through this project, I gained experience with FreeRTOS and embedded development
 During my current job, I touched amazing things that are significantly bigger than I could have ever imagined. The picture and brief description of the project are inside the article.
 
 ### In 2023, I've made several projects; here are some of them:
-#### Prototype Board CAD
+#### [Prototype Board CAD](https://github.com/K-S-K/CV/blob/main/Articles/30_BBCAD/Article.md)
 A simple editor for prototype board wiring planning with effective storage files in a version-management-friendly format.<be>
 The project is written in C# for use in a web environment. 
 
