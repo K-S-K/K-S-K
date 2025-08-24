@@ -15,12 +15,18 @@ Here are some facts about me:
 - Learning embedded schematics and software development - FreeRTOS, Raspberry PI Pico (at home).
 
 ## Some of my recent projects are:
-### At the beginning of 2024, I made a couple of projects to introduce myself to the Linux development flow in C++:
-#### Cross Docker Container Distributed System Example
-This [project](https://github.com/K-S-K/CCCS), written in C++, aims to develop an approach to **communicating between applications** in Docker containers and allowing them to **exchange binary serialized messages** via sockets. The project can be a source of examples for creating more complex projects.
 
-#### Cross Docker Container Signal Exchange.
-The purpose of this [project](https://github.com/K-S-K/CCSS), written in **C++**, is to adjust the approach of creating several projects in **different Docker containers** and let them **communicate via sockets**. The project can be used as a template for creating more complex projects.
+
+### [2025. The FreeRTOS-based timer working on RP2350](https://github.com/K-S-K/Pico-Timer-2)
+
+Through this project, I gained experience with FreeRTOS and embedded development. I've also had a lot of fun working on this project because I genuinely enjoy it.
+
+![Timer User Interface](https://github.com/K-S-K/Pico-Timer-2/blob/main/Doc/Pico2-timer-menu.gif)
+
+### [2024-... The modeling of the Gaia telescope Attitude and Orbit Control System](Articles/36_GaiaSDT/Article.md)
+
+During my current job, I touched amazing things that are significantly bigger than I could have ever imagined. The picture and brief description of the project are inside the article.
+![How does looks now](Articles/36_GaiaSDT/Images/Fig_01_SDT-UI.png)
 
 ### In 2023, I've made several projects; here are some of them:
 #### Prototype Board CAD
