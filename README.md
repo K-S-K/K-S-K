@@ -45,7 +45,7 @@ Other properties:
 ![Demo Board](https://github.com/K-S-K/BreadBoardCad/blob/master/BBCAD.Doc/board-1.svg)<br>
 The project page with the detailed description is [here](https://github.com/K-S-K/CV/blob/main/Articles/30_BBCAD/Article.md).
 
-#### LCD Screen driver for ESP Microcontroller:<br>
+#### [LCD Screen driver for ESP Microcontroller:](https://github.com/K-S-K/ESP32-02-OLed-SSD1366)<br>
 ![](https://github.com/K-S-K/ESP32-02-OLed-SSD1366/blob/master/docs/oled.gif)
 
 I make my [first steps](https://github.com/K-S-K/ESP32-02-OLed-SSD1366/blob/master/docs/Ch01_LostBits.md) in this direction, but I believe it will be a big and interesting journey.
