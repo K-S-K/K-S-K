@@ -48,4 +48,4 @@ The project page with the detailed description is [here](https://github.com/K-S-
 #### [LCD Screen driver for ESP Microcontroller:](https://github.com/K-S-K/ESP32-02-OLed-SSD1366)<br>
 ![](https://github.com/K-S-K/ESP32-02-OLed-SSD1366/blob/master/docs/oled.gif)
 
-I make my [first steps](https://github.com/K-S-K/ESP32-02-OLed-SSD1366/blob/master/docs/Ch01_LostBits.md) in this direction, but I believe it will be a big and interesting journey.
+I make my [first steps](https://github.com/K-S-K/ESP32-02-OLed-SSD1366/blob/master/docs/Ch01_LostBits.md) in this direction, but I believe it will be a big and enjoyable journey.
