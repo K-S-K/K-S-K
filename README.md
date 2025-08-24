@@ -26,7 +26,6 @@ Through this project, I gained experience with FreeRTOS and embedded development
 ### [2024-... The modeling of the Gaia telescope Attitude and Orbit Control System](Articles/36_GaiaSDT/Article.md)
 
 During my current job, I touched amazing things that are significantly bigger than I could have ever imagined. The picture and brief description of the project are inside the article.
-![How does looks now](Articles/36_GaiaSDT/Images/Fig_01_SDT-UI.png)
 
 ### In 2023, I've made several projects; here are some of them:
 #### Prototype Board CAD
