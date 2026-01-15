@@ -9,7 +9,7 @@ Here are some facts about me:
 
 ## My actual doing:
 
-- Software development in C# (12);
+- Software development in C# (14);
 - Development of the software running on Linux-based platforms;
 - [Development of the spacecraft Attitude and Orbit Control System model](https://github.com/K-S-K/CV/blob/main/Articles/36_GaiaSDT/Article.md) (at work);
 - Learning embedded schematics and software development - FreeRTOS, Raspberry PI Pico (at home).
