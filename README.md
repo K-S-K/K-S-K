@@ -30,9 +30,11 @@ Through this project, I gained experience with FreeRTOS and embedded development
 
 ![Timer User Interface](https://github.com/K-S-K/Pico-Timer-2/blob/main/Doc/Pico2-timer-menu.gif)
 
-### [2024-... The modeling of the Gaia telescope Attitude and Orbit Control System](https://github.com/K-S-K/CV/blob/main/Articles/36_GaiaSDT/Article.md)
+### [2024-2026 The modeling of the Gaia telescope Attitude and Orbit Control System](https://github.com/K-S-K/CV/blob/main/Articles/36_GaiaSDT/Article.md)
 
-During my current job, I touched amazing things that are significantly bigger than I could have ever imagined. The picture and brief description of the project are inside the article.
+During this job, I encountered things that were significantly larger than I could have ever imagined. The brief description of the project is inside the [article](https://github.com/K-S-K/CV/blob/main/Articles/36_GaiaSDT/Article.md).
+
+![SDT](https://github.com/K-S-K/CV/blob/main/Articles/36_GaiaSDT/Images/Fig_01_SDT-UI-Q.png)
 
 ### In 2023, I've made several projects; here are some of them:
 #### [Prototype Board CAD](https://github.com/K-S-K/CV/blob/main/Articles/30_BBCAD/Article.md)
