@@ -16,6 +16,13 @@ Here are some facts about me:
 
 ## Some of my recent projects are:
 
+### [2026. Local AI Assistant](https://github.com/K-S-K/CV/blob/main/Articles/37_LocalAI/Article.md)
+
+In this project, I am researching and testing the possibilities of language models in learning, web searching, engineering activities, etc. It looks like it is possible to have all LLM tools locally without regular fees, registration, and SMS. Also, this tool could help me to avoid the risk of being disconnected from your tool, experience, and knowledge, collected in communication with AI.
+
+![Local AI Assistant Chat View](https://github.com/K-S-K/CV/blob/main/Articles/37_LocalAI/Images/Fig_01_UI.png)
+
+In the chat shown in the picture above, I asked a simple, common question and got a simple, common answer. I would like to learn how to build a proper context and tooling environment to produce more detailed, usable responses.
 
 ### [2025. The FreeRTOS-based timer working on RP2350](https://github.com/K-S-K/Pico-Timer-2)
 
