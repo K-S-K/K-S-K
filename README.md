@@ -5,7 +5,7 @@ Here are some facts about me:
 - Also, I'm interested in all about microcontrollers, but without any *\*.ino* (don't start it, please).
 - Also, I'm interested in traveling around where I live and learning interesting things about all these miracles.
 - You can see the **[gallery of my projects](https://github.com/K-S-K/CV/blob/main/README.md#project-gallery)** with brief descriptions of every one of them.
-- Right now, I have a fantastic job. I'm working on the spacecraft attitude control model for the next version of the Gaia telescope. It is very exciting to work with incredible people for the sake of the future of our civilization.
+- Right now, I have a fantastic job. I'm working on the spacecraft attitude control model for the next version of the Gaia telescope. It is very exciting to work with incredible people for the future of our civilization.
 
 ## My actual doing:
 
@@ -18,7 +18,7 @@ Here are some facts about me:
 
 ### [2026. Local AI Assistant](https://github.com/K-S-K/CV/blob/main/Articles/37_LocalAI/Article.md)
 
-In this project, I am researching and testing the possibilities of language models in learning, web searching, engineering activities, etc. It looks like it is possible to have all LLM tools locally without regular fees, registration, and SMS. Also, this tool could help me to avoid the risk of being disconnected from your tool, experience, and knowledge, collected in communication with AI.
+In this project, I am researching and testing the possibilities of language models in learning, web searching, engineering activities, etc. It looks like it is possible to have all LLM tools locally without regular fees, registration, and SMS. Also, this tool could help me avoid the risk of being disconnected from my knowledge aggregation tools, experience, and the information collected through communication with AI.
 
 ![Local AI Assistant Chat View](https://github.com/K-S-K/CV/blob/main/Articles/37_LocalAI/Images/Fig_01_UI.png)
 
