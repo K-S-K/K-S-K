@@ -20,7 +20,7 @@ Here are some facts about me:
 
 In this project, I am researching and testing the possibilities of language models in learning, web searching, engineering activities, etc. It looks like it is possible to have all LLM tools locally without regular fees, registration, and SMS. Also, this tool could help me avoid the risk of being disconnected from my knowledge aggregation tools, experience, and the information collected through communication with AI.
 
-![Local AI Assistant Chat View](https://github.com/K-S-K/CV/blob/main/Articles/37_LocalAI/Images/Fig_01_UI.png)
+![Local AI Assistant Chat View](https://github.com/K-S-K/CV/blob/main/Articles/37_LocalAI/Images/Fig_05_UI_Buber.png)
 
 In the chat shown in the picture above, I asked a simple, common question and got a simple, common answer. I would like to learn how to build a proper context and tooling environment to produce more detailed, usable responses.
 
