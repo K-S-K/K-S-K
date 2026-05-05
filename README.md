@@ -18,11 +18,11 @@ Here are some facts about me:
 
 ### [2026. Local AI Assistant](https://github.com/K-S-K/CV/blob/main/Articles/37_LocalAI/Article.md)
 
-In this project, I am researching and testing the possibilities of language models in learning, web searching, engineering activities, etc. It looks like it is possible to have all LLM tools locally without regular fees, registration, and SMS. Also, this tool could help me avoid the risk of being disconnected from my knowledge aggregation tools, experience, and the information collected through communication with AI.
+In this project, I am researching and testing the potential of language models for learning, web searching, engineering activities, and more. It looks like it is possible to have all LLM tools locally without regular fees, registration, and SMS. Also, this tool could help me avoid the risk of being disconnected from my knowledge aggregation tools, experience, and the information collected through communication with AI.
 
 ![Local AI Assistant Chat View](https://github.com/K-S-K/CV/blob/main/Articles/37_LocalAI/Images/Fig_05_UI_Buber.png)
 
-In the chat shown in the picture above, I asked a simple, common question and got a simple, common answer. I would like to learn how to build a proper context and tooling environment to produce more detailed, usable responses.
+In the chat shown in the picture above, I asked the LLM to search the web for information about the content of a book. The LLM used the tool, connected to the internet by the environment, which searched the information on the internet and returned it to the LLM. LLM processed the information from the tool and returned the result in tabular form.
 
 ### [2025. The FreeRTOS-based timer working on RP2350](https://github.com/K-S-K/Pico-Timer-2)
 
