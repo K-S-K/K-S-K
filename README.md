@@ -26,7 +26,7 @@ A personal AI assistant running entirely locally on a MacBook Pro M3. The motiva
 
 Embedded Font Generator is a SaaS that rasterizes TTF fonts into C header files for small monochrome displays — SSD1306 OLED, e-ink, ST7735. The user can pick a font, set the cell dimensions, trim the character set to what the firmware actually needs, manually fix any pixels, preview on an emulated display, and download a ready-to-compile .h file.
 
-It is the actual working service [embedded-font.com](https://embedded-font.com/), which can serve the needs of embedded developers right now — for free, runs in the browser, no account needed.
+It is the actual working service **[embedded-font.com](https://embedded-font.com/)**, which can serve the needs of embedded developers right now — for free, runs in the browser, no account needed.
 
 ![Font Rasterization Service](https://github.com/K-S-K/CV/blob/main/Articles/38_EmbeddedFonts/Images/01_CommonView.png)
 
