@@ -22,6 +22,14 @@ A personal AI assistant running entirely locally on a MacBook Pro M3. The motiva
 
 ![WissensNest](https://github.com/K-S-K/CV/blob/main/Articles/37_LocalAI/Images/Fig_05_UI_Buber.png)
 
+### [Font Rasterization Service](https://github.com/K-S-K/CV/blob/main/Articles/38_EmbeddedFonts/Article.md)
+
+Embedded Font Generator is a SaaS that rasterizes TTF fonts into C header files for small monochrome displays — SSD1306 OLED, e-ink, ST7735. The user can pick a font, set the cell dimensions, trim the character set to what the firmware actually needs, manually fix any pixels, preview on an emulated display, and download a ready-to-compile .h file.
+
+It is the actual working site, which can serve the needs of embedded developers right now at [embedded-font.com](https://embedded-font.com/) — for free, runs in the browser, no account needed.
+
+![Font Rasterization Service](https://github.com/K-S-K/CV/blob/main/Articles/38_EmbeddedFonts/Images/01_CommonView.png)
+
 ### [FreeRTOS-based timer on RP2350 (2025)](https://github.com/K-S-K/Pico-Timer-2)
 
 A hardware timer project: buttons, buzzer, 4×7-segment display, FreeRTOS task scheduling on the RP2350. The goal was hardware-level understanding — not to collect a credential, but to add embedded thinking to the software background I already have.
