@@ -12,7 +12,7 @@ Right now I am finishing a simulation of the Gaia telescope's Attitude and Orbit
 
 ### [Gaia telescope AOCS Software Digital Twin (2024–2026)](https://github.com/K-S-K/CV/blob/main/Articles/36_GaiaSDT/Article.md)
 
-Scientists had developed ideas for improving attitude control for the next telescope generation but needed a complete simulation to test them. The existing partial implementations — Python and Java modules built independently by different researchers — had never run together. I learned the full control loop: scanning law, inertial rotation, disturbances, star tracker, Kalman filtering, micro propulsion. The hardest conceptual challenge: the controller never knows what it actually did — it fires the thrusters and watches whether the stars shift the way they were expected to. Getting the three-way separation between commanded torque, applied torque, and observable effect right was the foundation of the entire architecture.
+Scientists had developed ideas for improving attitude control for the next generation of telescopes, but needed a complete simulation to test them. The existing partial implementations — Python and Java modules built independently by different researchers — had never run together. I learned the full control loop: scanning law, inertial rotation, disturbances, star tracker, Kalman filtering, micro propulsion. The hardest conceptual challenge: the controller never knows what it actually did — it fires the thrusters and watches to see whether the stars shift as expected. Getting the three-way separation between commanded torque, applied torque, and observable effect right was the foundation of the entire architecture.
 
 ![SDT](https://github.com/K-S-K/CV/blob/main/Articles/36_GaiaSDT/Images/Fig_01_SDT-UI-Q.png)
 
@@ -22,7 +22,7 @@ A personal AI assistant running entirely locally on a MacBook Pro M3. The motiva
 
 ![WissensNest](https://github.com/K-S-K/CV/blob/main/Articles/37_LocalAI/Images/Fig_05_UI_Buber.png)
 
-### [Font Rasterization Service](https://github.com/K-S-K/CV/blob/main/Articles/38_EmbeddedFonts/Article.md)
+### [Font Rasterization Service (2026)](https://github.com/K-S-K/CV/blob/main/Articles/38_EmbeddedFonts/Article.md)
 
 Embedded Font Generator is a SaaS that rasterizes TTF fonts into C header files for small monochrome displays — SSD1306 OLED, e-ink, ST7735. The user can pick a font, set the cell dimensions, trim the character set to what the firmware actually needs, manually fix any pixels, preview on an emulated display, and download a ready-to-compile .h file.
 
