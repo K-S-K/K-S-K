@@ -22,6 +22,13 @@ A personal AI assistant running entirely locally on a MacBook Pro M3. The motiva
 
 ![WissensNest](https://github.com/K-S-K/CV/blob/main/Articles/37_LocalAI/Images/Fig_05_UI_Buber.png)
 
+### [File Explorer for macOS (2026)](https://github.com/K-S-K/CV/blob/main/Articles/39_Shell/Article.md)
+
+This tool helps me to feel at home on macOS after years with Windows Explorer.
+
+![Shell](https://github.com/K-S-K/CV/blob/main/Articles/39_Shell/Images/01_Kata_Dir.png)
+
+
 ### [Font Rasterization Service (2026)](https://github.com/K-S-K/CV/blob/main/Articles/38_EmbeddedFonts/Article.md)
 
 Embedded Font Generator is a SaaS that rasterizes TTF fonts into C header files for small monochrome displays — SSD1306 OLED, e-ink, ST7735. The user can pick a font, set the cell dimensions, trim the character set to what the firmware actually needs, manually fix any pixels, preview on an emulated display, and download a ready-to-compile .h file.
