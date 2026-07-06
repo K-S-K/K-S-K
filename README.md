@@ -26,7 +26,7 @@ A personal AI assistant running entirely locally on a MacBook Pro M3. The motiva
 
 This tool helps me to feel at home on macOS after years with Windows Explorer.
 
-![Shell](https://github.com/K-S-K/CV/blob/main/Articles/39_Shell/Images/01_Kata_Dir.png)
+![Shell](https://github.com/K-S-K/CV/blob/main/Articles/39_Shell/Images/81_Kata_FileMove.gif)
 
 
 ### [Font Rasterization Service (2026)](https://github.com/K-S-K/CV/blob/main/Articles/38_EmbeddedFonts/Article.md)
