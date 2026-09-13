@@ -4,13 +4,13 @@ I am a software developer with 25 years of experience. The consistent pattern ac
 
 The software was never the first thing. Understanding the domain was.
 
-Right now I am finishing a simulation of the Gaia telescope's Attitude and Orbit Control System at the Astronomisches Rechen-Institut, Heidelberg University — a research instrument the team uses to test ideas for the next-generation telescope mission.
-
 ---
 
 ## Recent work
 
 ### [Gaia telescope AOCS Software Digital Twin (2024–2026)](https://github.com/K-S-K/CV/blob/main/Articles/36_GaiaSDT/Article.md)
+
+Recently, I worked on simulating the Gaia telescope's Attitude and Orbit Control System at the Astronomisches Rechen-Institut, Heidelberg University — a research instrument the team uses to test ideas for the next-generation telescope mission.
 
 Scientists had developed ideas for improving attitude control for the next generation of telescopes, but needed a complete simulation to test them. The existing partial implementations — Python and Java modules built independently by different researchers — had never run together. I learned the full control loop: scanning law, inertial rotation, disturbances, star tracker, Kalman filtering, micro propulsion. The hardest conceptual challenge: the controller never knows what it actually did — it fires the thrusters and watches to see whether the stars shift as expected. Getting the three-way separation between commanded torque, applied torque, and observable effect right was the foundation of the entire architecture.
 
