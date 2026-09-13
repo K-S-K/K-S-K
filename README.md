@@ -8,6 +8,29 @@ The software was never the first thing. Understanding the domain was.
 
 ## Recent work
 
+```mermaid
+gantt
+    title Project Timeline: Jun 2023 - Jun 2027
+    dateFormat  YYYY-MM-DD
+    axisFormat  %Y %m
+    tickInterval 4month
+
+    section Linux IPC
+    Linux IPC         :a1, 2024-04-15, 2024-04-25
+
+    section Gaia AOCS SDT
+    Gaia AOCS SDT     :a2, 2024-05-15, 2026-04-15
+
+    section Wissens Nest
+    Wissens Nest      :a3, 2026-04-15, 2026-09-15
+
+    section Embedded Fonts
+    Embedded Fonts    :a4, 2026-05-01, 2026-06-20
+
+    section Kata-Shell
+    Kata-Shell        :a5, 2026-06-01, 2026-09-15
+```
+
 ### [Gaia telescope AOCS Software Digital Twin (2024–2026)](https://github.com/K-S-K/CV/blob/main/Articles/36_GaiaSDT/Article.md)
 
 Recently, I worked on simulating the Gaia telescope's Attitude and Orbit Control System at the Astronomisches Rechen-Institut, Heidelberg University — a research instrument the team uses to test ideas for the next-generation telescope mission.
