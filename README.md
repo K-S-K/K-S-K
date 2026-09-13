@@ -16,6 +16,8 @@ Scientists had developed ideas for improving attitude control for the next gener
 
 ![SDT](https://github.com/K-S-K/CV/blob/main/Articles/36_GaiaSDT/Images/Fig_01_SDT-UI-Q.png)
 
+**Categories:** [Job](https://github.com/K-S-K/CV/blob/main/Articles/EmploymentBasedProjects.md)
+
 ### [WissensNest — Local AI Assistant (2026)](https://github.com/K-S-K/CV/blob/main/Articles/37_LocalAI/Article.md)
 
 A personal AI assistant running entirely locally on a MacBook Pro M3. The motivation was ownership, reproducibility, and the need to control the full prompt stack for research-adjacent work. Building it produced a conceptual insight I find more useful than "it's just statistics": an LLM is a *Chemical computer* — fast, associative, pattern-driven. The surrounding framework — project system, prompt architecture, tool integration — is the *Logical computer*. The two together may be more capable than either alone. That is still a hypothesis. Testing it is part of why the project continues.
