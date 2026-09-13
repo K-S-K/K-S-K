@@ -53,12 +53,13 @@ This tool helps me to feel at home on macOS after years with Windows Explorer.
 
 ![Shell](https://github.com/K-S-K/CV/blob/main/Articles/39_Shell/Images/81_Kata_FileMove.gif)
 
+I shared it as a product at [katashell.app](https://www.katashell.app/).
 
 ### [Font Rasterization Service (2026)](https://github.com/K-S-K/CV/blob/main/Articles/38_EmbeddedFonts/Article.md)
 
-Embedded Font Generator is a SaaS that rasterizes TTF fonts into C header files for small monochrome displays — SSD1306 OLED, e-ink, ST7735. The user can pick a font, set the cell dimensions, trim the character set to what the firmware actually needs, manually fix any pixels, preview on an emulated display, and download a ready-to-compile .h file.
+Embedded Font Generator is a SaaS that rasterizes TTF fonts into C header files for small monochrome displays — SSD1306 OLED, e-ink, ST7735. Users can pick a font, set the cell dimensions, trim the character set to what the firmware needs, manually fix any pixels, preview on an emulated display, and download a ready-to-compile .h file.
 
-It is the actual working service **[embedded-font.com](https://embedded-font.com/)**, which can serve the needs of embedded developers right now — for free, runs in the browser, no account needed.
+It is the currently working service **[embedded-font.com](https://embedded-font.com/)**, which can serve embedded developers right now—for free, runs in the browser, and needs no account.
 
 ![Font Rasterization Service](https://github.com/K-S-K/CV/blob/main/Articles/38_EmbeddedFonts/Images/01_CommonView.png)
 
