@@ -31,7 +31,7 @@ gantt
     Kata-Shell        :a5, 2026-06-01, 2026-09-15
 
     section E-Planner
-    Kata-Shell        :a6, 2026-08-24, 2026-10-16
+    E-Planner         :a6, 2026-08-24, 2026-10-16
 ```
 
 ### [Gaia telescope AOCS Software Digital Twin (2024–2026)](https://github.com/K-S-K/CV/blob/main/Articles/36_GaiaSDT/Article.md)
