@@ -10,7 +10,7 @@ The software was never the first thing. Understanding the domain was.
 
 ```mermaid
 gantt
-    title Project Timeline: Jun 2023 - Jun 2027
+    title Project Timeline: Jun 2023 - Oct 2027
     dateFormat  YYYY-MM-DD
     axisFormat  %Y %m
     tickInterval 4month
@@ -29,6 +29,9 @@ gantt
 
     section Kata-Shell
     Kata-Shell        :a5, 2026-06-01, 2026-09-15
+
+    section E-Planner
+    Kata-Shell        :a6, 2026-08-24, 2026-10-16
 ```
 
 ### [Gaia telescope AOCS Software Digital Twin (2024–2026)](https://github.com/K-S-K/CV/blob/main/Articles/36_GaiaSDT/Article.md)
@@ -38,6 +41,20 @@ Recently, I worked on simulating the Gaia telescope's Attitude and Orbit Control
 Scientists had developed ideas for improving attitude control for the next generation of telescopes, but needed a complete simulation to test them. The existing partial implementations — Python and Java modules built independently by different researchers — had never run together. I learned the full control loop: scanning law, inertial rotation, disturbances, star tracker, Kalman filtering, micro propulsion. The hardest conceptual challenge: the controller never knows what it actually did — it fires the thrusters and watches to see whether the stars shift as expected. Getting the three-way separation between commanded torque, applied torque, and observable effect right was the foundation of the entire architecture.
 
 ![SDT](https://github.com/K-S-K/CV/blob/main/Articles/36_GaiaSDT/Images/Fig_01_SDT-UI-Q.png)
+
+**Categories:** [Job](https://github.com/K-S-K/CV/blob/main/Articles/EmploymentBasedProjects.md)
+
+### [E-Planner — An AI-Guided Planner for Hydrogen Production Facilities (2026)](https://github.com/K-S-K/CV/blob/main/Articles/41_H2D_EPlanner/Article.md)
+
+This autumn, I had an internship at a hydrogen-production planning firm. They let me do one AI-related task in the existing product and wrap one modeling part of their product with an AI-powered assistant.
+
+The platform already had a solid calculator for sizing and costing for the hydrogen production facility. It was a form. You had to know which scenario to choose, which fields to fill, and what the numbers meant.
+
+That is fine for an expert. For someone who just owns a wind farm, or runs a fleet of hydrogen trucks, or simply thinks "maybe I should make hydrogen", it is a wall. Such a user rarely knows the right question, so they cannot get the right answer.
+
+My task was to lower this barrier to entry. The user should feel comfortable from the first click, and the product should lead them step by step to a solution to their own problem — without losing a single bit of the calculator's precision.
+
+![SDT](https://github.com/K-S-K/CV/blob/main/Articles/41_H2D_EPlanner/Fig-0-screenshot.png)
 
 **Categories:** [Job](https://github.com/K-S-K/CV/blob/main/Articles/EmploymentBasedProjects.md)
 
